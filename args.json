@@ -1,0 +1,1 @@
+{"video": "inputs/object_removal/people/frames", "mask": "inputs/object_removal/people/masks", "output": "results", "resize_ratio": 1.0, "height": 720, "width": 720, "mask_dilation": 20, "ref_stride": 10, "neighbor_length": 10, "subvideo_length": 50, "raft_iter": 20, "mode": "video_inpainting", "scale_h": 1.0, "scale_w": 1.2, "save_fps": 24, "save_frames": false, "fp16": true}
